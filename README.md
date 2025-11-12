@@ -25,3 +25,44 @@ python -m venv .venv && .\.venv\Scripts\activate  # Windows
 
 # Install dependencies
 pip install -r requirements.txt
+
+## 🔐 Configuration
+Create a `.env` file (use `.env.example` as a template):
+```env
+OPENAI_API_KEY=sk-...
+
+TELEGRAM_API_ID=123456
+TELEGRAM_API_HASH=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+TELETHON_SESSION=./session.session   # path to your Telethon session file
+
+TARGET_CHAT_ID=@your_channel_or_chat
+
+RSS_FEEDS=https://coindesk.com/rss.xml,https://decrypt.co/feed,https://www.theblock.co/rss.xml
+
+POST_BATCH_SIZE=10
+ENABLE_WEEKLY_SUMMARY=true
+ENABLE_DAILY_SUMMARY=true
+
+
+▶️ Run
+python main.py
+
+
+📂 Recommended Structur
+crypto-news-bot/
+  services/
+    rss_parser.py
+    gpt_utils.py
+    news_service.py
+    publisher.py
+  sender.py
+  main.py
+  .env.example
+  requirements.txt
+  .gitignore
+  README.md
+
+📸 Demo
+https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Demo.png
+
+
