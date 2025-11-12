@@ -63,6 +63,6 @@ crypto-news-bot/
   README.md
 
 📸 Demo
-https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Demo.png
+![demo](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Demo.png)
 
 
