@@ -1,4 +1,4 @@
-# crypto-news-bot-README
+# crypto-news-bo
 # 📰 Crypto News Telegram Bot
 
 A Telegram bot that automatically parses crypto news from RSS feeds, rephrases them with GPT, adds hashtags, and publishes posts with media.
