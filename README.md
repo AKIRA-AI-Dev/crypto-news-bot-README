@@ -159,7 +159,8 @@ Everything is controlled via .env.
 
 
 ![Weekly Summary](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_2.png)
-![[Weekly Summary](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_8.png)
+![Post Example 8](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_8.png)
+
 
 
 
