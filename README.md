@@ -148,9 +148,8 @@ Everything is controlled via .env.
 
 📰 Demo — /news (5 example posts)
 
-![News Batch 1](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/blob/main/Screenshot_6.png)
-
-![News Batch 2](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/blob/main/Screenshot_7.png)
+![Post Example 6](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_6.png)
+![Post Example 7](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_7.png)
 
 📆 Demo — Daly Summary
 
