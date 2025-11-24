@@ -74,7 +74,7 @@ crypto-news-bot/
 /news — fetch fresh crypto news
 
 ![News Batch 2](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_4.png)
-![News Batch 1](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_3.png)
+
 
 
 Bot:
@@ -103,6 +103,7 @@ One-page digest with top events, charts, and key stats.
 /summary_week — weekly summary
 
 ![Weekly Summary](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_2.png)
+![Weekly Summary](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_3.png)
 
 
 Deeper analytics for institutional-style channels.
