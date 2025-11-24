@@ -73,9 +73,6 @@ crypto-news-bot/
   
 /news — fetch fresh crypto news
 
-![News Batch 2](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_4.png)
-![Moderation Flow](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_5.png)
-
 
 
 Bot:
@@ -92,20 +89,15 @@ sends posts to moderation
 
 publishes only after approval
 
+
+
 /summary_day — daily summary
-
-![Daily Summary](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_1.png)
-
 
 One-page digest with top events, charts, and key stats.
 
 
 
 /summary_week — weekly summary
-
-![Weekly Summary](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_2.png)
-![Weekly Summary](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_3.png)
-
 
 Deeper analytics for institutional-style channels.
 
@@ -156,13 +148,18 @@ Everything is controlled via .env.
 
 📰 Demo — /news (5 example posts)
 
-(Вставляй наши 5 постов)
+![News Batch 2](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_4.png)
+![Moderation Flow](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_5.png)
+
+📆 Demo — Daly Summary
+
+![Daily Summary](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_1.png)
 
 📆 Demo — Weekly Summary
 
-(Вставляй пример недельной сводки)
 
-2️⃣ Добавить демо-картинку (у тебя уже есть — отлично)
+![Weekly Summary](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_2.png)
+![Weekly Summary](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_3.png)
 
 
 
