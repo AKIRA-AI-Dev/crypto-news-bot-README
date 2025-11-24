@@ -74,6 +74,7 @@ crypto-news-bot/
 /news — fetch fresh crypto news
 
 ![News Batch 2](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_4.png)
+![Moderation Flow](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_5.png)
 
 
 
