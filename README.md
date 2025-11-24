@@ -69,5 +69,120 @@ crypto-news-bot/
   ```
 
 
+  ##📟 Bot Commands
+  
+/news — fetch fresh crypto news
+
+![News Batch 2](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_4.png)
+![News Batch 1](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_3.png)
+
+
+Bot:
+
+parses RSS
+
+rewrites text with GPT
+
+extracts media
+
+generates hashtags
+
+sends posts to moderation
+
+publishes only after approval
+
+/summary_day — daily summary
+
+![Daily Summary](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_1.png)
+
+
+One-page digest with top events, charts, and key stats.
+
+
+
+/summary_week — weekly summary
+
+![Weekly Summary](https://raw.githubusercontent.com/AKIRA-AI-Dev/crypto-news-bot-README/main/Screenshot_2.png)
+
+
+Deeper analytics for institutional-style channels.
+
+
+##📝 Moderation System (Core Feature)
+
+All content passes through a moderation chat.
+
+Moderator can:
+
+approve
+
+edit
+
+request rewrite
+
+change style (shorter, formal, journalistic)
+
+add/remove hashtags
+
+Bot posts ONLY the approved version into the main channel.
+
+This makes the bot suitable for real channels and clients.
+
+
+
+##🧩 Customization
+
+User/client can configure:
+
+number of posts in /news
+
+RSS sources
+
+writing style
+
+emojis on/off
+
+hashtags auto-generation
+
+posting schedule
+
+inclusion of BTC/ETH/SOL price block
+
+multiple target channels
+
+Everything is controlled via .env.
+
+📰 Demo — /news (5 example posts)
+
+(Вставляй наши 5 постов)
+
+📆 Demo — Weekly Summary
+
+(Вставляй пример недельной сводки)
+
+2️⃣ Добавить демо-картинку (у тебя уже есть — отлично)
+
+
+
+
+# ⚠️ Security
+- Never commit `.env`
+- Never commit `.session` files
+- Use `.gitignore` to hide secrets
+
+# 📄 License
+MIT License © 2025
+
+
+
+# 💼 Why This Bot Is Useful
+
+- Automates crypto content creation  
+- Reduces workload for channel admins  
+- Ensures consistent quality via moderation  
+- Supports multi-channel posting  
+- Ready for commercial use (agencies, media, crypto channels)  
+
+
 
 
